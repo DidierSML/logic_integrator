@@ -10,9 +10,9 @@ public abstract class Pokemon {
     protected int temporada;
 
     //Metodos abstractos que podran usar todas sus Clases hijas
-    protected abstract void atacarPlacaje();
-    protected abstract void atacarAraniazo();
-    protected abstract void atacarMordisco();
+    public abstract void atacarPlacaje();
+    public abstract void atacarAraniazo();
+    public abstract void atacarMordisco();
 
 }
 
