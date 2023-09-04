@@ -28,3 +28,9 @@ public class Main {
 
     }
 }
+
+/**
+ * Clase Ejecutable: Aquí probaremos y crearemos los respectivos Objetos tipo
+ * Pokemon, los cuales usaran los ataques de la Clase abstracta y asi mismo
+ * algunos ataques propios de la interfaz que cada uno implemento
+ */
